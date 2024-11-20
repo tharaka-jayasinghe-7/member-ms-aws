@@ -1,0 +1,5 @@
+com\example\memberms\MemberMsApplication.class
+com\example\memberms\Data\Member.class
+com\example\memberms\Controller\MemberController.class
+com\example\memberms\Service\MemberService.class
+com\example\memberms\Data\MemberRepository.class
