@@ -14,7 +14,7 @@ public class MemberController {
     @Autowired
     private MemberService memberService;
  
-    @GetMapping(path = "/members")
+    @GetMapping(path = "/members2")
     public List<Member> getAllMember() {
         return memberService.getAllMembers();
     }
